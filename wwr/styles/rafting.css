@@ -9,7 +9,9 @@
 
 header nav {
     background-color: #264653;
-    color: var(--accent1-color);
+    color: white;
+    
+    
 }
    
 header nav {
@@ -34,7 +36,7 @@ header img {
 
 body {
     font-family: var(--body-font);
-    color: var(--accent1-color);
+    color:var(--accent1-color);
 }
 
 header,main,footer {
