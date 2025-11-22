@@ -39,7 +39,7 @@ list-style: none;
 padding: 3px;
 margin: 0;
 display: flex;
-background-color: white;
+background-color: whitesmoke;
 /*push navigation to the right*/
 width: max-content;
 justify-content: flex-end;
