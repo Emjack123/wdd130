@@ -39,7 +39,7 @@ list-style: none;
 padding: 3px;
 margin: 0;
 display: flex;
-background-color: #c2c1c6;
+background-color: white;
 /*push navigation to the right*/
 width: max-content;
 justify-content: flex-end;
@@ -51,7 +51,7 @@ justify-content: flex-end;
 
 .header-nav a {
     text-decoration: none;
-    color: #ff9900; 
+    color: black; 
     font-weight: bold;
     font-size: medium;
 }
@@ -94,7 +94,7 @@ padding: 8px;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     gap: 5px;
-    background-color: #9d9ca4;
+    
 }
     
     
