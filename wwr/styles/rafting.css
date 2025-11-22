@@ -170,24 +170,27 @@ h1 {
 
 
 .main-section img {
-    text-align: none;
     grid-column: 2/3;
     grid-row: 1/2;
-    float: left;
-
     width: 100px;
     height: auto;
     
+
+    
+    
 }
 
-.main-section p {
+.main-section h2  {
+    display:block ;
+    justify-content: center;
+}
   
   
   
   
   
 
-}
+
     
     
 
