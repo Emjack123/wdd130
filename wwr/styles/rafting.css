@@ -345,13 +345,15 @@ padding: 8px;
    grid-template-columns: repeat(2,1fr);
    gap: 5px;
    margin: 30px;
+}  
    
    
-}
-   footer nav {
-       height: 10px;
+   
+
+   
+
        
-   }
+
 
    
 
@@ -372,8 +374,9 @@ padding: 8px;
    height: 0.5px;
    justify-content: flex-end;
 }
-.social-icons-nav li {
-   height: 3px;
+.social-icons-nav {
+   height: 2px;
+   
 }
 
 .main-footer {
@@ -386,13 +389,16 @@ padding: 8px;
 .container {
    display:grid ;
    grid-template-columns: repeat(4,1fr);
-   margin-bottom: 30px;
+   margin-bottom: 100px;
    gap: 10px;
-   padding: 5px;
+   padding: 10px;
 
-
-   
 }
+.social-icons-nav li img {
+   width: 40px;
+   height: auto;
+}
+   
 
 .photo-box img {
    width: 80px;
